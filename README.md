@@ -1,4 +1,4 @@
-# StudioSLAM
+# Studio
 
 ## FromVidToIm
 È stato creato appositamente per passare da un video a una serie di frame
